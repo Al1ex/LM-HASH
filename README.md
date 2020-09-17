@@ -1,2 +1,6 @@
 # LM-HASH
-LM-HASH
+usage:
+```
+python LM-HASH.py
+~~~
+
